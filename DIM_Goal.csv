@@ -1,0 +1,11 @@
+Goal_ID_SK,Goal_name,Goal_expirydate,Goal_amount,Goal_quantity_per_year
+1,Apprentice,2018-12-04,50000,25
+2,Competent,2018-12-31,62000,30
+3,Initiated,2019-02-11,70000,35
+4,Specialist,2019-12-01,80000,40
+5,Trained,2020-02-19,100000,55
+6,Adept,2020-11-29,105000,60
+7,Inspiring,2020-12-09,115000,65
+8,Able,2021-03-03,120000,70
+9,Experienced,2023-03-07,250000,100
+10,Proficient,2023-10-06,300000,105
